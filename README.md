@@ -3,6 +3,8 @@ So far, we have contructed transport block which includes both data and control 
 
 **NOTE:** So now , the job of physical layer is to transmit the transport block over the wireless channel as efficiently as possible.
 
+![](/photos/phy_channel.png)
+
 PHYSICAL-Layer does this by Modulation, Coding, Multi-Antenna processing and by mapping the signals to the appropriate physical time and frequency resources.
 
 The physical channel mainly handles the mapping of the transport channel to the physical channel.
